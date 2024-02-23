@@ -70,7 +70,7 @@
 				"components": [
 					{
 						"internalType": "address",
-						"name": "user",
+						"name": "user", 
 						"type": "address"
 					},
 					{
