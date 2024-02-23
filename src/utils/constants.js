@@ -5,7 +5,7 @@
 // ! ||--------------------------------------------------------------------------------||
 
 import abi from './upload.json'
-export const  contractAddress= '0xc2DC1C00C33c93E2a9B498c613Fa5d552D849047';
+export const  contractAddress= '0x6383e9B0769dD93C30165F3173Ccdc99780109c8';
 export const contractAbi = abi;
 
 
